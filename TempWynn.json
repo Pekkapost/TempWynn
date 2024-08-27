@@ -115,12 +115,12 @@
   },
   {
     "id": "dataStaticGear",
-    "md5": "f8dc6ff5efbf87f1ac13e0abc1d98b9e",
+    "md5": "a7f4ba69633c151659ed3cde0da538ac",
     "url": "https://raw.githubusercontent.com/Pekkapost/TempWynn/main/GearData.json"
   },
   {
     "id": "dataStaticGearAdvanced",
-    "md5": "5e475b3752666e0f28efba72db1ded25",
+    "md5": "8abb9b324bbe121ca6a8d9ba4522e834",
     "url": "https://raw.githubusercontent.com/Pekkapost/TempWynn/main/GearDataAdvanced.json"
   },
   {
